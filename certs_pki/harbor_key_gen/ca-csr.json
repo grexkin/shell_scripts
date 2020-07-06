@@ -1,0 +1,18 @@
+{
+  "CN": "Private CA Root certificate",
+  "key": {
+    "algo": "rsa","size": 2048
+  },
+  "ca": {
+     "expiry": "876000h"
+  },
+  "names": [
+    {
+      "C": "CN",
+      "L": "BJ",
+      "ST": "BeiJing",
+      "O": "Private CA certificates are issued",
+      "OU": ""
+    }
+  ]
+}

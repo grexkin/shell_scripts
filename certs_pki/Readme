@@ -1,0 +1,8 @@
+# Usage
+
+1. bash get_cmd.sh 
+2. cd harbor_key_gen 
+   需要修改的文件: 
+   ca-config.json
+   hub-csr.json
+3. 注意修改内容要与脚本中命令参数相关即可
